@@ -6,7 +6,7 @@
 #
 Name     : pid
 Version  : 3.0.4
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/46/45/9e551a0e30d68d18334bc6fd8971b3ab1485423877902eb4f26cc28d7bd5/pid-3.0.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/46/45/9e551a0e30d68d18334bc6fd8971b3ab1485423877902eb4f26cc28d7bd5/pid-3.0.4.tar.gz
 Source1  : https://files.pythonhosted.org/packages/46/45/9e551a0e30d68d18334bc6fd8971b3ab1485423877902eb4f26cc28d7bd5/pid-3.0.4.tar.gz.asc
@@ -62,7 +62,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1612567650
+export SOURCE_DATE_EPOCH=1612570763
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
